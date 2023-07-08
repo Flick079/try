@@ -1,0 +1,70 @@
+#heading
+{
+    text-align:center;
+    font-family: 'Billabong', sans-serif;
+    font-size: 30px;
+}   
+#icon-picture
+{
+    border-radius: 50%;
+}
+*
+{
+    margin: 0;
+    padding:0;
+}
+body
+{
+    font-family: sans-serif;
+}
+#story-icon
+{
+    width: 60px;
+    height: 58px;
+    border-radius: 50%;
+}
+ul
+{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+li
+{
+    padding:0px;
+    padding-left: 20px;
+}
+label
+{
+    font-size: 13px;    
+}
+#feed1
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;    
+    padding: 1%;
+}
+#newsfeed
+{
+    list-style-type: none;
+    font-size: 13px;
+    padding:5px;
+    padding-right: 620px;
+    padding-bottom: 0px;
+}
+#profile-pic
+{
+    width: 30px;
+    height: 28px;
+    border-radius: 50%;
+}
+#nav-bar
+{
+    width: 43px;
+    height: 43px;
+    padding-right: 170px;
+    padding-left: 195px ;
+}
